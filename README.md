@@ -1,5 +1,3 @@
-Here’s a polished and formatted version of your README.md file for Mplay – Music Play Web App:
-
 
 ---
 
