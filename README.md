@@ -1,5 +1,4 @@
 
----
 
 # 🎵 Mplay – Music Play Web App
 
@@ -73,5 +72,4 @@ GitHub: [@eng-natole](https://github.com/eng-natole)
 This project is open-source and free to use for educational and personal purposes.
 
 
----
 
