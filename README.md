@@ -75,5 +75,3 @@ This project is open-source and free to use for educational and personal purpose
 
 ---
 
-Let me know if you'd like help generating screenshots, deploying it online, or converting it into a React or mobile-friendly PWA version.
-
